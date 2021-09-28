@@ -1,0 +1,47 @@
+body
+{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(222, 221, 236, 0.644);
+    text-align: center;
+    font-style: italic;
+
+}
+
+h1
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:blue;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-style: double;
+}
+
+h2
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 0, 0, 0.486);
+    text-decoration-style: wavy;
+}
+
+p
+{
+    color: black;
+    font-weight: bold;
+}
+
+hr
+{
+    height: 10px;
+    width: 75%;
+    background-color: rgba(0, 0, 255, 0.596);
+}
+
+#hr1
+{
+    width: 50%;
+}
